@@ -1,0 +1,10 @@
+.paragraph h3{
+    color:blue;
+}
+.paragraph p{
+    text-align: justify;
+    border: 2px solid blue;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
